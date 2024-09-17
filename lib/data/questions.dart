@@ -171,4 +171,15 @@ const questions = [
       'Neither shuffle() or map()',
     ],
   ),
+
+  QuizQuestion(
+    'Video 3_33',
+    'What does an underscore before a class or variable name do?',
+    [
+      'Makes both classes and variables private',
+      'Makes both classes and variables public',
+      'Makes classes private, but variables public',
+      'Makes variables private, but classes public',
+    ],
+  ),
 ];
