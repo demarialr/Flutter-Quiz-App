@@ -1,6 +1,6 @@
 # adv_basics
 
-A new Flutter project.
+An app that runs a quiz about Flutter
 
 ## Getting Started
 
