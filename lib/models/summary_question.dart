@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 
 class SummaryQuestion extends StatelessWidget {
-  const SummaryQuestion(
-      {super.key, required this.data,});
+  const SummaryQuestion({
+    super.key,
+    required this.data,
+  });
 
   final Map<String, Object> data;
 
